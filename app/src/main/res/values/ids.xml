@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="viewholder_word_id" type="id"/>
+    <item name="is_click_by_code" type="id"/>
+</resources>

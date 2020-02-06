@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Words</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pref_file">words.pref</string>
+    <string name="pref_is_use_card">is_use_card</string>
+</resources>
